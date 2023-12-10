@@ -1,1 +1,1 @@
-# alx-system_engineering-devops
+The directory contains some basic shell commands
